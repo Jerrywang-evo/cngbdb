@@ -23,3 +23,12 @@ Undergraduate level knowledge of molecular biology and genetics
     Please also read the description carefully to see if this session is relevant to you.
     
     If you don't meet the prerequisites or change your mind based on the description or are no longer available at the session time, please email tol-training at sanger.ac.uk to cancel your slot so that someone else on the waitlist might attend.
+
+## Presentation document and other information
+
+The presentation document for this session will be uploaded to this GitHub after the session ends.
+
+CNGBdb homepage: https://db.cngb.org/
+STOmicsDB: https://db.cngb.org/stomics/
+CODEPLOT: https://db.cngb.org/codeplot/
+
